@@ -25,7 +25,7 @@
 <img src="screenshots\3.png" height="200">
 <img src="screenshots\4.png" height="200">
 
-## Question
+## Questions
 
   To reach me for questions about this project:
 
