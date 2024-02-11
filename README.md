@@ -8,8 +8,6 @@
 
 [Screenshot](#screenshot)
 
-[License](#license)
-
 [Question](#question)
 
 [Link](#link)
@@ -26,9 +24,7 @@
 <img src="screenshots\2.png" height="200">
 <img src="screenshots\3.png" height="200">
 <img src="screenshots\4.png" height="200">
-## License
 
-  MIT, https://opensource.org/licenses/MIT
 ## Question
 
   To reach me for questions about this project:
