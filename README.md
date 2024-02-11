@@ -22,10 +22,10 @@
 
   Click the links in the navbar to see each page of the portfolio
 ## Screenshot
-<img src="screenshots\1.png>
-![Alt text](<screenshots\2.png>)
-![Alt text](<screenshots\3.png>)
-![Alt text](<screenshots\4.png>)
+<img src="screenshots\1.png" height="200">
+<img src="screenshots\2.png" height="200">
+<img src="screenshots\3.png" height="200">
+<img src="screenshots\4.png" height="200">
 ## License
 
   MIT, https://opensource.org/licenses/MIT
